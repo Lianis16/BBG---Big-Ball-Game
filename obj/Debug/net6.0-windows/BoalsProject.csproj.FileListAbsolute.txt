@@ -1,0 +1,17 @@
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\bin\Debug\net6.0-windows\BoalsProject.exe
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\bin\Debug\net6.0-windows\BoalsProject.deps.json
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\bin\Debug\net6.0-windows\BoalsProject.runtimeconfig.json
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\bin\Debug\net6.0-windows\BoalsProject.dll
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\bin\Debug\net6.0-windows\BoalsProject.pdb
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\obj\Debug\net6.0-windows\BoalsProject.csproj.AssemblyReference.cache
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\obj\Debug\net6.0-windows\BoalsProject.Form1.resources
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\obj\Debug\net6.0-windows\BoalsProject.csproj.GenerateResource.cache
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\obj\Debug\net6.0-windows\BoalsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\obj\Debug\net6.0-windows\BoalsProject.AssemblyInfoInputs.cache
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\obj\Debug\net6.0-windows\BoalsProject.AssemblyInfo.cs
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\obj\Debug\net6.0-windows\BoalsProject.csproj.CoreCompileInputs.cache
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\obj\Debug\net6.0-windows\BoalsProject.dll
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\obj\Debug\net6.0-windows\refint\BoalsProject.dll
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\obj\Debug\net6.0-windows\BoalsProject.pdb
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\obj\Debug\net6.0-windows\BoalsProject.genruntimeconfig.cache
+C:\Users\jjero\source\repos\BoalsProject\BoalsProject\obj\Debug\net6.0-windows\ref\BoalsProject.dll
